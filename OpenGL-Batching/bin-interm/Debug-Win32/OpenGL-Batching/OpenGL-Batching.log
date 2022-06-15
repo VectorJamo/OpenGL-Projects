@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\OpenGL Projects\OpenGL-Batching\OpenGL-Batching\src\Main.cpp(38,6): warning C4838: conversion from 'unsigned int' to 'unsigned short' requires a narrowing conversion
+C:\OpenGL Projects\OpenGL-Batching\OpenGL-Batching\src\Main.cpp(38,27): warning C4838: conversion from 'unsigned int' to 'unsigned short' requires a narrowing conversion
+C:\OpenGL Projects\OpenGL-Batching\OpenGL-Batching\src\Main.cpp(38,48): warning C4838: conversion from 'unsigned int' to 'unsigned short' requires a narrowing conversion
+C:\OpenGL Projects\OpenGL-Batching\OpenGL-Batching\src\Main.cpp(38,69): warning C4838: conversion from 'unsigned int' to 'unsigned short' requires a narrowing conversion
+C:\OpenGL Projects\OpenGL-Batching\OpenGL-Batching\src\Main.cpp(38,90): warning C4838: conversion from 'unsigned int' to 'unsigned short' requires a narrowing conversion
+C:\OpenGL Projects\OpenGL-Batching\OpenGL-Batching\src\Main.cpp(38,111): warning C4838: conversion from 'unsigned int' to 'unsigned short' requires a narrowing conversion
+  OpenGL-Batching.vcxproj -> C:\OpenGL Projects\OpenGL-Batching\bin\Debug-Win32\OpenGL-Batching\OpenGL-Batching.exe
